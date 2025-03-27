@@ -11,5 +11,5 @@
 1. `git clone https://github.com/fring-cloud/pcap_programming`
 2. `gcc -o sniff sniff.c -lpcap`<br/><br/>
 
-`git` 명령어로 코드를 `clone` 받은 후, `gcc`로 컴파일 하면 끝입니다. 
+`git` 명령어로 코드를 `clone` 받은 후, `gcc`로 컴파일 하면 끝입니다.<br/> 
 `pcap`라이브러리만 있다면, 원활하게 작동 할 것입니다.
